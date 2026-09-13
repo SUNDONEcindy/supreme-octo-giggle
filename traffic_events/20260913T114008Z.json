@@ -1,0 +1,33 @@
+{
+  "node": "SUNDONEcindy/supreme-octo-giggle",
+  "slot": "0",
+  "probe_rounds": 1,
+  "timestamp": "2026-09-13T11:40:08Z",
+  "results": [
+    {"pid":"1045285536976","round":1,"http_code":302,"elapsed_s":0.732938,"redirects":0,"up":true}
+    ,
+    {"pid":"1051443785486","round":1,"http_code":302,"elapsed_s":0.070574,"redirects":0,"up":true}
+    ,
+    {"pid":"1055272192360","round":1,"http_code":302,"elapsed_s":0.058260,"redirects":0,"up":true}
+    ,
+    {"pid":"1056343383874","round":1,"http_code":302,"elapsed_s":0.074263,"redirects":0,"up":true}
+    ,
+    {"pid":"1057028184538","round":1,"http_code":302,"elapsed_s":0.056707,"redirects":0,"up":true}
+    ,
+    {"pid":"1059036808911","round":1,"http_code":302,"elapsed_s":0.058212,"redirects":0,"up":true}
+    ,
+    {"pid":"1059798887756","round":1,"http_code":302,"elapsed_s":0.057668,"redirects":0,"up":true}
+    ,
+    {"pid":"1060214802605","round":1,"http_code":302,"elapsed_s":0.057583,"redirects":0,"up":true}
+    ,
+    {"pid":"1060285671386","round":1,"http_code":302,"elapsed_s":0.064439,"redirects":0,"up":true}
+    ,
+    {"pid":"1061217153671","round":1,"http_code":302,"elapsed_s":0.069292,"redirects":0,"up":true}
+    ,
+    {"pid":"1061810629923","round":1,"http_code":302,"elapsed_s":0.054518,"redirects":0,"up":true}
+    ,
+    {"pid":"1067381684786","round":1,"http_code":302,"elapsed_s":0.070384,"redirects":0,"up":true}
+    ,
+    {"pid":"1071695794375","round":1,"http_code":302,"elapsed_s":0.056915,"redirects":0,"up":true}
+  ]
+}
